@@ -1,5 +1,5 @@
 
-  # Studdies: Quick and easy connections for like-minded students.
+  # Studdies: Quick and easy connections for like-minded students
 
 Studdies is a platform agnostic browser-based study connection tool. Search your topic and be connected to another student instantly on the platform of your choice. Easy, lightweight, no dedicated sign in and totally free.
 
